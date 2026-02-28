@@ -61,7 +61,9 @@ High-level and low-level requirements:
 
 ## Team Members & Roles
 
-| Member | Role |
-|---|---|
-| **Andrea Venegas** | Hardware Lead — physical assembly, wiring, ESP32 breadboard setup, component validation, and all hands-on lab work. |
-| **Sergio Lara** | Software Lead — firmware development, Arduino/C++ programming, image processing integration, OCR implementation, and version control. |
+| Member | Product Owner | Scrum Master | Dev — Hardware | Dev — Firmware | Dev — Integration | Dev — Testing |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Andrea Venegas** | | ✓ | ✓ | | ✓ | ✓ |
+| **Sergio Lara** | ✓ | | | ✓ | ✓ | ✓ |
+
+Full Project Vision, Sprint Planning, Backlog, DoR/DoD → [`docs/project-vision.md`](../docs/project-vision.md)
